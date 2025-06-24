@@ -1,6 +1,7 @@
-# rbcknightflutter
+# rbcflutter_class2
+สอน Flutter คุณไนท์
 
-A new Flutter project.
+---
 
 ## Getting Started
 
