@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045576951421",
+    "project_id": "rbcknight-3d647",
+    "storage_bucket": "rbcknight-3d647.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045576951421:android:571f32612bb2858538f314",
+        "android_client_info": {
+          "package_name": "com.robotschild.rbcknightflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKziDwGHzfmp8yRYDNf-X4Ffcgv-bjMrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
